@@ -1,7 +1,7 @@
 # 🔐 Auth – Seamless Login & Signup Platform
 
-**Live Demo:** [https://project-bay-five-78.vercel.app](https://project-bay-five-78.vercel.app)  
-**GitHub Repo:** [github.com/Ranshika-Yadav/Auth](https://github.com/Ranshika-Yadav/Auth)
+**Live Demo:** [https://project-bay-five-78.vercel.app]((https://one-c-lick.vercel.app/login))  
+**GitHub Repo:** [(https://github.com/Ranshika-Yadav/One-CLick.git)]
 
 `Auth` is a full-stack authentication web application that offers modern, responsive, and secure user login and registration features. Built with React and styled using Tailwind CSS, this project is ideal for developers, startups, or anyone needing a clean authentication flow for web apps.
 
